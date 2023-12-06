@@ -1,0 +1,21 @@
+PatSize = 5
+FA  : 324 
+MD  : 330 
+OE  : 654 
+PCC : 0.990021 
+
+
+PatSize = 5
+FA  : 310 
+MD  : 567 
+OE  : 877 
+PCC : 0.986618 
+
+
+PatSize = 5
+FA  : 447 
+MD  : 543 
+OE  : 990 
+PCC : 0.984894 
+
+
