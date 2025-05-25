@@ -1,5 +1,0 @@
-README.md merge=ours
-Test/ merge=ours
-.demo/ merge=ours
-
-*.m linguist-language=MATLAB
